@@ -4,8 +4,8 @@ Trabalho final da disciplina de Algoritmo e Programação de Computadores(APC), 
 Neste trabalho construímos um código que estima a pontuação obtida por um dardo jogado aleatóriamente em jogo de dardos com a seguinte distribuição de pontos:
 
 
-<p aling-itens="center">
-    <img src="./Imagens-readme/Tabuleiro.png"  width="70" height="70" />
+<p aling="center">
+    <img src="./Imagens-readme/Tabuleiro.png"  width="200" height="200" />
 </p>
 
 O experimento aqui realizado, conhecido experimento de Monte Carlo, considera que todos os dardos jogados atingirão um alvo, para o cálculo da pontuação. 
@@ -15,9 +15,9 @@ Inicialmente, fizemos um gerador de valores aleatórios, para simular os lançam
 Obtivemos um resultado muito satisfatório e a comparação final pode ser vista no Gráfico abaixo:
 
 
-<p aling-itens="center"> Gráfico 1: Taxa de erro médio entre a esperança e a media dos valores obtidos nos testes do experimento de Monte Carlo</p>
-<p aling-itens="center">
-    <img src="./Imagens-readme/Grafico"  width="70" height="70"/>
+<p aling="center"> Gráfico 1: Taxa de erro médio entre a esperança e a media dos valores obtidos nos testes do experimento de Monte Carlo</p>
+<p aling="center">
+    <img src="./Imagens-readme/Grafico.png"  width="200" height="200"/>
 </p>
 
 
