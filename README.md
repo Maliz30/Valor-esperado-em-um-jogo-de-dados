@@ -1,5 +1,5 @@
 # Valor-esperado-em-um-jogo-de-dados
-Trabalho final da disciplina de Algoritmo e Programação de Computadores(APC), realizado em meu 1° semestre do curso de Engenharia de Software.
+Trabalho final da disciplina de Algoritmo e Programação de Computadores(APC), realizado em meu 1° semestre no curso de Engenharia de Software.
 
 Neste trabalho construímos um código que estima a pontuação obtida por um dardo jogado aleatóriamente em jogo de dardos com a seguinte distribuição de pontos:
 
@@ -24,6 +24,6 @@ Os participantes do experimento foram:
 - Gabriel Gonçakves Rocha
 - Maria Alice Bernardo da Costa Silva (eu)
 - Pedro Henrique dos Santos Ferreira
-- Vinícius Mendes Martins ()
+- Vinícius Mendes Martins (@yabamiah)
 
 Demais informações sobre o tema se encontram no arquivo 'Tema - Valor esperado em um jogo de dardos' e sobre o desenvolvimento e resultados obtidos em 'Relatório de desenvolvimento do trabalho'.
