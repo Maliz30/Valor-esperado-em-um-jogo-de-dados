@@ -5,7 +5,7 @@ Neste trabalho construímos um código que estima a pontuação obtida por um da
 
 
 <p align="center">
-    <img src="./Imagens-readme/Tabuleiro.png"  width="200" height="300" />
+    <img src="./Imagens-readme/Tabuleiro.png"  width="300" height="300" />
 </p>
 
 O experimento aqui realizado, conhecido experimento de Monte Carlo, considera que todos os dardos jogados atingirão um alvo, para o cálculo da pontuação. 
