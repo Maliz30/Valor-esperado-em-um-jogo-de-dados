@@ -21,9 +21,9 @@ Obtivemos um resultado muito satisfatório e a comparação final pode ser vista
 </p>
 
 Os participantes do experimento foram:
-- Gabriel Gonçakves Rocha
+- Gabriel Gonçalves Rocha
 - Maria Alice Bernardo da Costa Silva (eu)
-- Pedro Henrique dos Santos Ferreira
+- Pedro Henrique dos Santos Ferreira(@pedro-hsf)
 - Vinícius Mendes Martins (@yabamiah)
 
 Demais informações sobre o tema se encontram no arquivo 'Tema - Valor esperado em um jogo de dardos' e sobre o desenvolvimento e resultados obtidos em 'Relatório de desenvolvimento do trabalho'.
